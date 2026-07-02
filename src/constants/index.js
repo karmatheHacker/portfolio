@@ -421,7 +421,7 @@ export const hackathons = [
     event: "AI IGNITE",
     year: "2024",
     placement: "1st Place",
-    college: "Assam Engineering College",
+    college: "HKBK College of Engineering",
     body: [
       { text: "Built " },
       { text: "Fluey AI", bold: true },
@@ -453,7 +453,7 @@ export const hackathons = [
     event: "TECHNOVATE Project Expo",
     year: "2026",
     placement: "2nd Place",
-    college: "Assam Engineering College",
+    college: "HKBK College of Engineering",
     body: [
       { text: "Secured " },
       { text: "2nd position at TECHNOVATE", bold: true },
